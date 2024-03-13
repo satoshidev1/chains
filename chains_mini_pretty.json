@@ -7639,7 +7639,7 @@
     "symbol": "BTC",
     "decimals": 18
   },
-  "rpc": ["https://main-rpc-node-http.svmscan.io"],
+  "rpc": ["https://alpha-rpc-node-http.svmscan.io"],
   "faucets": [],
   "infoURL": "https://www.satoshivm.io/"
 }, {
