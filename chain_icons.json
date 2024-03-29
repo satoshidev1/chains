@@ -1815,6 +1815,14 @@
     "format": "png"
   }]
 }, {
+  "name": "maxi",
+  "icons": [{
+    "url": "ipfs://QmXMLcCaNPMyWCEYX2MZDJHNvj5cpj2cR5dRQtedBRNypT",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "hybridIcon",
   "icons": [{
     "url": "ipfs://QmdGfvH9qfvbMXYKosS1nHbw3q5UtFJky4hdMDmmKDTx8Y",
@@ -1980,6 +1988,14 @@
     "url": "ipfs://QmVyAuAnKKNnGEpqeYMLPRfMdysLgPBTZeEXihXbRytGhp",
     "width": 1024,
     "height": 1024,
+    "format": "png"
+  }]
+}, {
+  "name": "quantum",
+  "icons": [{
+    "url": "ipfs://QmeKQVv2QneHaaggw2NfpZ7DGMdjVhPywTdse5RzCs4oGn",
+    "width": 232,
+    "height": 232,
     "format": "png"
   }]
 }, {
@@ -2237,6 +2253,14 @@
     "width": 48,
     "height": 51,
     "format": "svg"
+  }]
+}, {
+  "name": "real",
+  "icons": [{
+    "url": "ipfs://QmNUmWC7jNEBcTs6ZqkrQ5vMAQG8qjq7n3FcZnXvJZLoQ9",
+    "width": 301,
+    "height": 302,
+    "format": "png"
   }]
 }, {
   "name": "deelance",
@@ -3303,6 +3327,14 @@
     "format": "png"
   }]
 }, {
+  "name": "espento",
+  "icons": [{
+    "url": "ipfs://QmVvQdmAj6GNQjP1dsxQKbA7xgzqsciooGTQtQ2RsJ37Lf",
+    "width": 335,
+    "height": 335,
+    "format": "svg"
+  }]
+}, {
   "name": "ultrapro",
   "icons": [{
     "url": "ipfs://QmT11iJMLe9sAk5NiRQbe2wv1jtLFCs2sF2w9vFwDLkkgE",
@@ -3591,6 +3623,14 @@
     "format": "png"
   }]
 }, {
+  "name": "iotaevm",
+  "icons": [{
+    "url": "ipfs://bafkreibky2sy6qhi6arktayvologkrgu5kudpgdxfkx4uosbvmstz7v4di",
+    "width": 720,
+    "height": 720,
+    "format": "png"
+  }]
+}, {
   "name": "dragonfly",
   "icons": [{
     "url": "ipfs://QmPXhdPGufjcPzZ9Y6nY6QyW8MgA6793L88iPMRh1Q3gjJ",
@@ -3668,6 +3708,14 @@
     "url": "ipfs://QmbiaHnR3fVVofZ7Xq2GYZxwHkLEy3Fh5qDtqnqXD6ACAh",
     "width": 192,
     "height": 192,
+    "format": "png"
+  }]
+}, {
+  "name": "creditcoin",
+  "icons": [{
+    "url": "ipfs://QmTfecECALDCy51zwVbXBSXb6TokqowCYzVLv65etahLxX",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
@@ -3884,6 +3932,14 @@
     "url": "ipfs://QmeuDgSprukzfV7fi9XYHYcfmT4aZZZU7idgShtRS8Vf6V",
     "width": 471,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "swamps",
+  "icons": [{
+    "url": "ipfs://QmTEEgWsknzdqjLbaAvLHqCCzCtMJZh2d1SqMscxZCXBwA",
+    "width": 150,
+    "height": 150,
     "format": "png"
   }]
 }, {
@@ -4372,6 +4428,14 @@
     "url": "ipfs://bafkreihfoy2kgf2rebaoicso7z5h7ju46z6gtr64mskkths3qbfkrtnkjm",
     "width": 190,
     "height": 170,
+    "format": "png"
+  }]
+}, {
+  "name": "taproot",
+  "icons": [{
+    "url": "ipfs://QmeucqvcreQk8nnSRUiHo3QTvLoYYB7shJTKXj5Tk6BtWi",
+    "width": 100,
+    "height": 100,
     "format": "png"
   }]
 }, {
